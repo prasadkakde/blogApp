@@ -35,8 +35,8 @@ function Footer() {
             Pune, Maharashtra 411001, India
           </p>
           <p className="mt-1 text-sm text-gray-600 leading-5">
-            Email: contact@engineeringblog.com<br />
-            Phone: +91 46464666
+            Email: contact@engineeringblogs.cpm/>
+            mobile:10123010
           </p>
         </div>
 
@@ -46,6 +46,7 @@ function Footer() {
           <div className="flex space-x-3">
             <h1>facebook</h1>
             <h1>linkdein</h1>
+            <h1>tweeter</h1>
             
           </div>
         </div>
