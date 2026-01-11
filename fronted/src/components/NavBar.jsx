@@ -9,7 +9,7 @@ function Navbar() {
       
       <div className="flex items-center space-x-2">
         <img src={laga} alt="" className="h-12 w-12" />
-        <span className="font-semibold text-lg">Engineering Blogs</span>
+        <span className="font-semibold text-lg">Engineering Blog</span>
       </div>
 
       
