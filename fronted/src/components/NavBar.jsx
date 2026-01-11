@@ -6,13 +6,13 @@ function Navbar() {
 
   return (
     <nav className="w-full flex items-center justify-between px-6 py-4">
-      {/* Logo */}
+      
       <div className="flex items-center space-x-2">
         <img src={laga} alt="" className="h-12 w-12" />
-        <span className="font-semibold text-lg">Engineering Blog</span>
+        <span className="font-semibold text-lg">Engineering Blogs</span>
       </div>
 
-      {/* Search */}
+      
       <div className="flex-1 max-w-md mx-6">
         <input
           type="text"
@@ -21,7 +21,7 @@ function Navbar() {
         />
       </div>
 
-      {/* Buttons */}
+      
       <div className="space-x-3">
         <button
           onClick={() => navigate("/login")}
