@@ -14,7 +14,7 @@ import SingleBlog from "./Pages/SingleBlog";
 
 function App() {
   return (
-    <Router>
+    <Router>//routing all pages
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
