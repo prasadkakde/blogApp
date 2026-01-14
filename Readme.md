@@ -43,6 +43,9 @@ This project uses **MongoDB running locally** for development purposes.
 - MongoDB is hosted on the local machine
 - **MongoDB Compass** is used to visualize, manage, and query the database
 - Backend connects to MongoDB using a local connection string
+- start mongodb : net start MongoDB
+- stop mongodb : net stop MongoDB
+
 
 Example connection:
 
